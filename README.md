@@ -1,6 +1,6 @@
 ## WP Update Reclaim Server Status ##
-Contributors: StewartJohn
-License: GNU AGPLv3
+Contributors: StewartJohn   
+License: GNU AGPLv3  
 License URI: http://www.gnu.org/licenses/agpl-3.0.html
 
 ### Description ###
